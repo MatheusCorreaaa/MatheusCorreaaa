@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Busco minha vaga<br>- 🌱 Estudando Angular<br>- 📫 Contate-me no email: matheuscorreajbs@gmail.com</p>
+<p align="left"><br>- 🌱 Estudando Angular<br>- 📫 Contate-me no email: matheuscorreajbs@gmail.com</p>
 
 ###
 
