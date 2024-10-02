@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando Angular<br>- 📫 Contate-me no email: matheuscorreajbs@gmail.com</p>
+<p align="left"> -🌱 Estudando Angular<br>- 📫 Contate-me no email: matheuscorreajbs@gmail.com</p>
 
 ###
 
