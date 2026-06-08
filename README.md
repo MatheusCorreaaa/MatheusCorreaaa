@@ -4,18 +4,16 @@
 
 Estudante da área de Tecnologia da Informação com foco em desenvolvimento de software, desenvolvimento web e soluções baseadas em Inteligência Artificial. Possuo experiência prática com desenvolvimento front-end e back-end, versionamento de código e integração de APIs, além de interesse contínuo em arquitetura de sistemas, bancos de dados e automação de processos.
 
-Atualmente atuo como Desenvolvedor Full Stack Aprendiz e busco oportunidades para ampliar minha experiência profissional, contribuindo com projetos que gerem impacto e valor para o negócio.
-
 ---
 
 ## Contato
 
 <p align="left">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/matheus-correa-798439250/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:https://mail.google.com/mail/u/0/?pli=1#inbox">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -31,7 +29,6 @@ Atualmente atuo como Desenvolvedor Full Stack Aprendiz e busco oportunidades par
   <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </p>
 
 ### Frameworks e Bibliotecas
@@ -51,9 +48,7 @@ Atualmente atuo como Desenvolvedor Full Stack Aprendiz e busco oportunidades par
 <p>
   <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 
 ---
@@ -86,16 +81,12 @@ Aplicação desenvolvida em Angular consumindo a API do Google Books para exibir
 - Resolução de Problemas
 
 ---
-
-## Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=github_dark"/>
-
-</div>
+## Experiências Práticas
+- Experiências Práticas
+- Desenvolvimento Full Stack em ambiente profissional
+- Integração de APIs externas em aplicações web
+- Desenvolvimento de projeto utilizando a API Google Books com Angular
+- Utilização de IA para pesquisa, documentação, automação e aumento de produtividade no desenvolvimento
 
 ---
 
