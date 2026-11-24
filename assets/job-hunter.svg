@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="178" viewBox="0 0 740 178" role="img" aria-labelledby="title desc">
+<title id="title">Job Hunter</title><desc id="desc">Encontre vagas de estágio e júnior em tecnologia e acompanhe suas candidaturas no desktop. Electron · Node.js.</desc>
+<defs>
+<clipPath id="bounds"><rect x=".75" y=".75" width="738.5" height="176.5" rx="18"/></clipPath>
+<linearGradient id="surface" x2="1" y2=".15" gradientUnits="objectBoundingBox"><stop stop-color="#11131b"/><stop offset=".53" stop-color="#191923"/><stop offset="1" stop-color="#214739"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#98f1c7" stop-opacity=".17"/><stop offset="1" stop-color="#98f1c7" stop-opacity="0"/></radialGradient>
+<linearGradient id="beam"><stop stop-color="#87ffbb" stop-opacity=".01"/><stop offset="1" stop-color="#87ffbb" stop-opacity=".44"/></linearGradient>
+<linearGradient id="glass" x2="0" y2="1"><stop stop-color="#443658"/><stop offset="1" stop-color="#25223a"/></linearGradient>
+<linearGradient id="cover" x2="1" y2="1"><stop stop-color="#a36a65"/><stop offset="1" stop-color="#624148"/></linearGradient>
+<pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#98f1c7" opacity=".23"/></pattern>
+<style>
+.sweep{animation:scan 6s linear infinite}.ping{animation:signal 3s ease-out infinite;transform-origin:23px -35px}.resize{animation:fit 4.5s ease-in-out infinite}.lens{animation:search 5s ease-in-out infinite}
+@keyframes scan{to{transform:rotate(360deg)}}@keyframes signal{0%{opacity:.95;transform:scale(.5)}85%,100%{opacity:0;transform:scale(1.5)}}@keyframes fit{0%,20%,100%{transform:scale(.72)}48%,72%{transform:scale(1.27)}}@keyframes search{0%,100%{transform:translate(-7px,5px)}40%{transform:translate(5px,-9px)}70%{transform:translate(9px,4px)}}
+@media(prefers-reduced-motion:reduce){.sweep,.ping,.resize,.lens{animation:none}}
+</style></defs>
+<g clip-path="url(#bounds)"><rect width="740" height="178" fill="url(#surface)"/><ellipse cx="606" cy="108" rx="155" ry="122" fill="url(#light)"/>
+<path d="M504 0h236v178H461Z" fill="url(#dots)"/>
+<g transform="translate(604 88)">
+<circle r="68" fill="#081f1d" stroke="#78c7a5" stroke-opacity=".35"/>
+<g stroke="#82d6b5" fill="none" opacity=".3"><circle r="50"/><circle r="32"/><circle r="14"/><path d="M-68 0H68M0 -68V68" stroke-dasharray="2 5"/></g>
+<g class="sweep"><path d="M0 0L-54 -40A67 67 0 0 1 0 -67Z" fill="url(#beam)"/><path d="M0 0V-66" stroke="#a4ffcc" stroke-width="2"/></g>
+<g fill="#acffd0"><circle cx="23" cy="-35" r="3.5"/><circle cx="-34" cy="25" r="3.5"/><circle cx="31" cy="23" r="2.5"/></g>
+<circle class="ping" cx="23" cy="-35" r="9" fill="none" stroke="#adffcf"/><circle r="4.5" fill="#d0ffe0"/>
+</g>
+<g font-family="DejaVu Sans, Arial, sans-serif"><text x="26" y="50" fill="#fbf7f5" font-size="35" font-weight="700" letter-spacing="-1.4">Job Hunter</text>
+<text x="28" y="84" fill="#e5e1e7" font-size="17"><tspan>Encontre vagas de estágio e júnior em tecnologia</tspan><tspan x="28" dy="23">e acompanhe suas candidaturas no desktop.</tspan></text>
+<path d="M28 140h20" stroke="#98f1c7" stroke-width="3" stroke-linecap="round"/><text x="60" y="146" fill="#98f1c7" font-size="15" font-weight="600">Electron · Node.js</text></g>
+<g transform="translate(703 22)" stroke="#98f1c7" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 9l9-9M1 0h8v8"/></g></g>
+<rect x=".75" y=".75" width="738.5" height="176.5" rx="18" stroke="#98f1c7" stroke-opacity=".3" fill="none"/></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="178" viewBox="0 0 740 178" role="img" aria-labelledby="title desc">
+<title id="title">Resolution Fast</title><desc id="desc">Salve suas resoluções favoritas e alterne entre elas com um atalho de teclado no Windows. C# · WinForms.</desc>
+<defs>
+<clipPath id="bounds"><rect x=".75" y=".75" width="738.5" height="176.5" rx="18"/></clipPath>
+<linearGradient id="surface" x2="1" y2=".15" gradientUnits="objectBoundingBox"><stop stop-color="#11131b"/><stop offset=".53" stop-color="#191923"/><stop offset="1" stop-color="#423357"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#c9bbff" stop-opacity=".17"/><stop offset="1" stop-color="#c9bbff" stop-opacity="0"/></radialGradient>
+<linearGradient id="beam"><stop stop-color="#87ffbb" stop-opacity=".01"/><stop offset="1" stop-color="#87ffbb" stop-opacity=".44"/></linearGradient>
+<linearGradient id="glass" x2="0" y2="1"><stop stop-color="#443658"/><stop offset="1" stop-color="#25223a"/></linearGradient>
+<linearGradient id="cover" x2="1" y2="1"><stop stop-color="#a36a65"/><stop offset="1" stop-color="#624148"/></linearGradient>
+<pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#c9bbff" opacity=".23"/></pattern>
+<style>
+.sweep{animation:scan 6s linear infinite}.ping{animation:signal 3s ease-out infinite;transform-origin:23px -35px}.resize{animation:fit 4.5s ease-in-out infinite}.lens{animation:search 5s ease-in-out infinite}
+@keyframes scan{to{transform:rotate(360deg)}}@keyframes signal{0%{opacity:.95;transform:scale(.5)}85%,100%{opacity:0;transform:scale(1.5)}}@keyframes fit{0%,20%,100%{transform:scale(.72)}48%,72%{transform:scale(1.27)}}@keyframes search{0%,100%{transform:translate(-7px,5px)}40%{transform:translate(5px,-9px)}70%{transform:translate(9px,4px)}}
+@media(prefers-reduced-motion:reduce){.sweep,.ping,.resize,.lens{animation:none}}
+</style></defs>
+<g clip-path="url(#bounds)"><rect width="740" height="178" fill="url(#surface)"/><ellipse cx="606" cy="108" rx="155" ry="122" fill="url(#light)"/>
+<path d="M504 0h236v178H461Z" fill="url(#dots)"/>
+<g transform="translate(604 86)" fill="none" stroke-linejoin="round">
+<rect x="-78" y="-52" width="156" height="98" rx="9" fill="#1a1828" stroke="#bbace7" stroke-width="2"/>
+<rect x="-69" y="-43" width="138" height="75" rx="3" fill="url(#glass)"/>
+<path d="m-68 20 44-39 23 22 22-16 47 34v10H-68Z" fill="#ac99dd" opacity=".22"/>
+<path d="m-68 25 38-15 27 13 40-31 31 19v20H-68Z" fill="#c7b3ff" opacity=".23"/>
+<g transform="translate(0 -6)"><g class="resize" stroke="#e2d7ff" stroke-width="2"><path d="M-48 -22h16m-16 0v10m96-10H32m16 0v10M-48 22h16m-16 0V12m96 10H32m16 0V12"/></g></g>
+<path d="M-14 47l-4 12h36l-4-12" fill="#312c44" stroke="#a69bc1"/><path d="M-29 61h58" stroke="#d4c4ff" stroke-width="3" stroke-linecap="round"/>
+<circle cx="0" cy="39" r="2" fill="#c9bbff"/></g>
+<g font-family="DejaVu Sans, Arial, sans-serif"><text x="26" y="50" fill="#fbf7f5" font-size="35" font-weight="700" letter-spacing="-1.4">Resolution Fast</text>
+<text x="28" y="84" fill="#e5e1e7" font-size="17"><tspan>Salve suas resoluções favoritas e alterne entre elas</tspan><tspan x="28" dy="23">com um atalho de teclado no Windows.</tspan></text>
+<path d="M28 140h20" stroke="#c9bbff" stroke-width="3" stroke-linecap="round"/><text x="60" y="146" fill="#c9bbff" font-size="15" font-weight="600">C# · WinForms</text></g>
+<g transform="translate(703 22)" stroke="#c9bbff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 9l9-9M1 0h8v8"/></g></g>
+<rect x=".75" y=".75" width="738.5" height="176.5" rx="18" stroke="#c9bbff" stroke-opacity=".3" fill="none"/></svg>

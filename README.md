@@ -18,8 +18,14 @@
 
 ## Projetos em destaque
 
-| Projeto | O que você pode fazer | Tecnologias |
-| --- | --- | --- |
-| [Job Hunter](https://github.com/MatheusCorreaaa/job-hunter) | Encontrar estágios e vagas júnior em tecnologia e acompanhar cada candidatura no desktop. | Electron · Node.js |
-| [Resolution Fast](https://github.com/MatheusCorreaaa/ResolutionFast) | Salvar resoluções favoritas e alternar entre elas com um atalho de teclado no Windows. | C# · WinForms |
-| [Buscante](https://github.com/MatheusCorreaaa/buscante-livros) | Pesquisar livros por título e consultar capas, sinopses e datas de publicação. | Angular · TypeScript · Google Books API |
+<p>
+  <a href="https://github.com/MatheusCorreaaa/job-hunter"><img width="100%" src="./assets/job-hunter.svg" alt="Job Hunter — Encontre vagas de estágio e júnior em tecnologia e acompanhe suas candidaturas no desktop. Electron · Node.js. Abrir repositório."></a>
+</p>
+
+<p>
+  <a href="https://github.com/MatheusCorreaaa/ResolutionFast"><img width="100%" src="./assets/resolution-fast.svg" alt="Resolution Fast — Salve suas resoluções favoritas e alterne entre elas com um atalho de teclado no Windows. C# · WinForms. Abrir repositório."></a>
+</p>
+
+<p>
+  <a href="https://github.com/MatheusCorreaaa/buscante-livros"><img width="100%" src="./assets/buscante.svg" alt="Buscante — Pesquise livros por título e descubra capas, sinopses e datas de publicação. Angular · TypeScript · Google Books API. Abrir repositório."></a>
+</p>
