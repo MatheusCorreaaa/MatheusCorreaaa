@@ -27,5 +27,5 @@
 </p>
 
 <p>
-  <a href="https://github.com/MatheusCorreaaa/buscante-livros"><img width="100%" src="./assets/buscante.svg" alt="Buscante — Pesquise livros por título e descubra capas, sinopses e datas de publicação. Angular · TypeScript · Google Books API. Abrir repositório."></a>
+  <a href="https://matheuscorreaaa.github.io/tnyc-alphaville/"><img width="100%" src="./assets/tnyc-alphaville.svg" alt="The New York Coffee — Explore o cardápio de cafés e brunch e planeje sua visita à unidade Rio Negro, em Alphaville. HTML · CSS · JavaScript. Visitar o site."></a>
 </p>
